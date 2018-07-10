@@ -1,3 +1,6 @@
 first_name = "lyla"
---Hang
---sixteen
+last_name = "Hang"
+age = "16"
+puts first_name_name
+puts last_name
+puts age
