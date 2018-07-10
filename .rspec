@@ -1,4 +1,4 @@
---color
---require spec_helper
+--lyla
+--Hang
 --format documentation
 --fail-fast
