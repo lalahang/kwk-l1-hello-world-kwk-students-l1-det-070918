@@ -1,6 +1,6 @@
 first_name = "lyla"
 last_name = "Hang"
 age = "16"
-puts first_name_name
+puts first_name
 puts last_name
 puts age
